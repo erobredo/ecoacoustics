@@ -1,6 +1,0 @@
-shapely
-guano
-timezonefinder
-s3fs
-tensorflow
-tensorflow_probability<=0.11.1

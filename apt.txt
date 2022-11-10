@@ -1,7 +1,0 @@
-libsndfile1
-libpq-dev
-libsndfile1-dev
-gcc
-graphviz
-graphviz-dev
-git

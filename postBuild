@@ -1,1 +1,0 @@
-git clone https://github.com/yuntu-org/yuntu.git && python3 -m pip install yuntu/src
