@@ -6,3 +6,4 @@ graphviz
 graphviz-dev
 git
 subversion
+htop
