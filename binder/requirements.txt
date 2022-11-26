@@ -1,4 +1,1 @@
-shapely
 guano
-timezonefinder
-s3fs
