@@ -7,3 +7,5 @@ graphviz-dev
 git
 subversion
 htop
+wget
+unzip
