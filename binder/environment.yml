@@ -2,5 +2,8 @@ name: yuntu-env
 channels:
   - conda-forge
 dependencies:
+  - shapely
+  - s3fs
+  - timezonefinder
   - tensorflow-cpu
   - tensorflow-probability
