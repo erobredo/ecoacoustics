@@ -1,0 +1,6 @@
+name: yuntu-env
+channels:
+  - conda-forge
+dependencies:
+  - tensorflow-cpu
+  - tensorflow-probability
